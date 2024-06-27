@@ -1,0 +1,50 @@
+Test dataset accuracy: 0.7281634008635005
+My test dataset accuracy: 0.4813218390804598
+Test dataset accuracy: 0.7612642532934795
+My test dataset accuracy: 0.5739942528735632
+Test dataset accuracy: 0.7382375733421898
+My test dataset accuracy: 0.5064655172413793
+Test dataset accuracy: 0.7798073729657921
+My test dataset accuracy: 0.569683908045977
+Test dataset accuracy: 0.7533488320602236
+My test dataset accuracy: 0.5251436781609196
+Test dataset accuracy: 0.7794199047935348
+My test dataset accuracy: 0.5567528735632183
+Test dataset accuracy: 0.7700099634672866
+My test dataset accuracy: 0.5625
+Test dataset accuracy: 0.7133289051256504
+My test dataset accuracy: 0.4899425287356322
+21:51: test
+07:28: Test dataset accuracy: 0.7086792870585631
+07:28: My test dataset accuracy: 0.5064655172413793
+17:54: Saved student_cpt and augmenter_cpt at epoch 0. 
+Loss student: real: 3793.4082877365, fake: 9.448020339012146. 
+Loss augmenter: 669884220891447.1
+18:11: Saved student_cpt and augmenter_cpt at epoch 1. 
+Loss student: real: 10812.090872283676, fake: 58.57714003324509. 
+Loss augmenter: 2840314026073.9326
+18:27: Saved student_cpt and augmenter_cpt at epoch 2. 
+Loss student: real: 27417.284624354215, fake: 135.12739634513855. 
+Loss augmenter: 9311465597688.0
+18:44: Saved student_cpt and augmenter_cpt at epoch 3. 
+Loss student: real: 17194.203280913338, fake: 8.533066391944885. 
+Loss augmenter: 8809697471592.0
+19:00: Saved student_cpt and augmenter_cpt at epoch 4. 
+Loss student: real: 8204.629198325682, fake: 6.215540707111359. 
+Loss augmenter: 3008469470462.0
+19:16: Saved student_cpt and augmenter_cpt at epoch 5. 
+Loss student: real: 15781.693680982571, fake: 24.36796885728836. 
+Loss augmenter: 5925333889687.026
+19:33: Saved student_cpt and augmenter_cpt at epoch 6. 
+Loss student: real: 19540.653517816274, fake: 142.95647197961807. 
+Loss augmenter: 6772269325103.0
+19:49: Saved student_cpt and augmenter_cpt at epoch 7. 
+Loss student: real: 13587.219977156361, fake: 16.836043298244476. 
+Loss augmenter: 7487545852208.0
+20:06: Saved student_cpt and augmenter_cpt at epoch 8. 
+Loss student: real: 10068.546743779909, fake: 9.492625832557678. 
+Loss augmenter: 4844044091132.0
+20:22: Saved student_cpt and augmenter_cpt at epoch 9. 
+Loss student: real: 9529.123062677594, fake: 13.796383500099182. 
+Loss augmenter: 4897023811100.0
+21:01: test

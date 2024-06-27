@@ -1,0 +1,6 @@
+content/
+uploads/
+log.txt
+input/
+output/
+image_classification/feature_extraction_classifier/experiments/models/
